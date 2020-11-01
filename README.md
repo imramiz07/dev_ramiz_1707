@@ -1,4 +1,4 @@
-![Profile_View](https://gpvc.arturio.dev/Rj-Innocent-Coder)
+![Profile_View](https://gpvc.arturio.dev/imramiz07)
 
 <h2>નમસ્તે (Namaste)😍, I'm Ramiz Theba!</h2>
 <img align='right' src="illustration.gif" width="350">
