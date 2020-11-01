@@ -6,7 +6,7 @@
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dev_ramiz_1707?label=Follow)
-[![Linkedin: Rohit](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramiztheba/)](https://www.linkedin.com/in/ramiztheba/)
+[![Linkedin: Ramiz](https://img.shields.io/badge/-Ramiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramiztheba/)](https://www.linkedin.com/in/ramiztheba/)
 ![GitHub followers](https://img.shields.io/github/followers/imramiz07?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://knightdevs.com/)](https://knightdevs.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=dev_ramiz_1707)
@@ -34,7 +34,7 @@ const dev_ramiz_1707 = {
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-217-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-537-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-90K%20lines%20of%20code-blue)
 
