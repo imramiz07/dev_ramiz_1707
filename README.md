@@ -1,8 +1,8 @@
 ![Profile_View](https://gpvc.arturio.dev/Rj-Innocent-Coder)
 
-<h2>નમસ્તે (Namaste)😍, I'm Rohit Chauhan!</h2>
+<h2>નમસ્તે (Namaste)😍, I'm Ramiz Theba!</h2>
 <img align='right' src="illustration.gif" width="350">
-<p><em>FullStack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>FullStack Developer <img src="https://raw.githubusercontent.com/imramiz07/dev_ramiz_1707/main/illustration.gif" width="30"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/innocent_coder?label=Follow)
