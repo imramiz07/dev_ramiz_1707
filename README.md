@@ -2,7 +2,7 @@
 
 <h2>નમસ્તે (Namaste)😍, I'm Ramiz Theba!</h2>
 <img align='right' src="illustration.gif" width="350">
-<p><em>FullStack Developer <img src="https://raw.githubusercontent.com/imramiz07/dev_ramiz_1707/main/illustration.gif" width="30"> 
+<p><em>FullStack Developer <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="30" data-canonical-src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" style="max-width:100%;"> 
 </em></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dev_ramiz_1707?label=Follow)
