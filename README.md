@@ -5,11 +5,11 @@
 <p><em>FullStack Developer <img src="https://raw.githubusercontent.com/imramiz07/dev_ramiz_1707/main/illustration.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/innocent_coder?label=Follow)
-[![Linkedin: Rohit](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rj-chauhan/)](https://www.linkedin.com/in/anmol-p-singh/)
-![GitHub followers](https://img.shields.io/github/followers/Rj-Innocent-Coder?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dev_ramiz_1707?label=Follow)
+[![Linkedin: Rohit](https://img.shields.io/badge/-Rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramiztheba/)](https://www.linkedin.com/in/ramiztheba/)
+![GitHub followers](https://img.shields.io/github/followers/imramiz07?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://knightdevs.com/)](https://knightdevs.com/)
-![](https://visitor-badge.glitch.me/badge?page_id=Rj-Innocent-Coder)
+![](https://visitor-badge.glitch.me/badge?page_id=dev_ramiz_1707)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
